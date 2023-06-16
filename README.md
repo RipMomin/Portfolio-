@@ -7,5 +7,5 @@
 -Machine Learning Project 
 
 # Checkout my other profiles 
--LinkedIn 
+[LinkedIn] (https://www.linkedin.com/in/ripripchi-momin-656153275)
 -Kaggle
