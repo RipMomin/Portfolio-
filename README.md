@@ -6,6 +6,7 @@
 -Data Science Project 
 -Machine Learning Project 
 
-# Checkout my other profiles 
+# Currently I'm learning SQL from w3school
+
+# Checkout my other profile 
 [LinkedIn] (https://www.linkedin.com/in/ripripchi-momin-656153275)
--Kaggle
