@@ -1,4 +1,4 @@
-# Portfolio-
+# Portfolio
 
 # [About me] (https://GitHub.com/ripmomin)
 -i put my project under three repositories 
@@ -6,7 +6,7 @@
 -Data Science Project 
 -Machine Learning Project 
 
-Currently I'm learning SQL from w3school
+Currently, I'm learning SQL 
 
 # Checkout my other profile 
 [LinkedIn] (https://www.linkedin.com/in/ripripchi-momin-656153275)
